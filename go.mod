@@ -1,6 +1,6 @@
 go 1.20
 
-module github.com/rpi-ws281x/rpi-ws281x-go
+module github.com/mgdnnn/rpi-ws281x-go
 
 require (
 	github.com/pkg/errors v0.9.1
